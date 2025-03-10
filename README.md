@@ -44,4 +44,8 @@ The Interactive Quiz Application is a dynamic web-based quiz designed to engage 
 - **Audio Feedback**: Adding sound effects for correct and incorrect answers.
 
 #### Conclusion
-The Interactive Quiz Application is a simple yet powerful tool for testing knowledge in an engaging way. It is easy to use, visually appealing, and provides a smooth user experience. With its **restart feature**, users can continue learning and improving their scores. This project demonstrates the effective use of **JavaScript** to create interactive web applications and can be further enhanced with additional features. 
+The Interactive Quiz Application is a simple yet powerful tool for testing knowledge in an engaging way. It is easy to use, visually appealing, and provides a smooth user experience. With its **restart feature**, users can continue learning and improving their scores. This project demonstrates the effective use of **JavaScript** to create interactive web applications and can be further enhanced with additional features.
+
+### OUTPUT
+![Image](https://github.com/user-attachments/assets/56149f57-bf63-47ac-93ab-81a1271c4f97)
+
